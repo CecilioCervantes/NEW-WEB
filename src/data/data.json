@@ -1,0 +1,169 @@
+{
+  "Header": {
+    "title": "CALL CENTER FOR MONEY-MAKERS",
+    "paragraph": "Join the #1 team in weather-damage sales — and get paid like it."
+  },
+  "About": {
+  "paragraph": "With over a decade in the game, we’ve become the top choice in the storm lead industry. At Marketing Storm Leads, we offer the best calling areas, a high-energy work environment, and the strongest compensation plan—base pay, commissions, bonuses, raffles, and promos that keep things exciting.",
+  "Why": [
+      "Competitive Base Pay",
+      "Unlimmited Commissions",
+      "Weekly Cash Raffles",
+      "Daily Competitions"
+    ],
+    "Why2": [
+      "Best Areas To Calls",
+      "High-Energy Team",
+      "Semi-AnnualPay Raises",
+      "Full Legal Benefits"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Christmas at kid's shelter",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "VIP Night—dressed to impress",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Cruisin’ with the crew",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Gifts, fun, and love at a local school",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Posada night with the full family",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Took the team to the water—again",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "PYes, we have our own soccer team",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Not just coworkers—this is the crew",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "HQ is open for business",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-headphones",
+      "name": "Telemarketing Agents",
+      "text": "No fluff — if you can talk and hustle, you’ll eat here. Fast training, daily bonuses, real commission."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Sales Supervisors",
+      "text": "Already running a squad? Bring the fire and get the tools, tech, and talent to take it further."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "name": "Campaign Builder",
+      "text": "If you’ve launched campaigns, managed leads, or worked backend ops — this is your command center."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Since day one, I felt like part of the team. The energy here is next level and the commissions really pay off.\"",
+      "name": "Gibby"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Best job I’ve had. It’s fast-paced, competitive, and the bonuses are no joke. I’ve hit my goals every week.\"",
+      "name": "Ramon"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"They actually care about performance and reward it. I doubled my income from my last job within a month.\"",
+      "name": "Israel"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Great culture, real support, and the pay is solid. If you’re hungry and speak English, this is the place\"",
+      "name": "Mike"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"I came in with no experience and now I’m leading a team. Growth here is real if you want it.\"",
+      "name": "Jonathan"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Daily raffles, cool prizes, and we always get paid on time. This job feels different in a good way.\"",
+      "name": "JC"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Guadalajara / Zapopan",
+      "job": "This is where it all started. Our headquarters in Zapopan is the nerve center of our operation — a sleek, modern office where strategy meets action. We’re at the heart of Jalisco’s tech and talent scene."
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Puerto Vallarta, Jalisco",
+      "job": "Beach vibes meet business goals. Our Vallarta team works steps away from the ocean — proving you can build something serious while living in paradise."
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Tepic, Nayarit",
+      "job": "Small city, big drive. Tepic is where our hustle lives. Our local office is full of sharp agents who bring the energy every day and keep the momentum strong."
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Virtual Agents",
+      "job": "Our remote team covers regions beyond our office hubs. We hire work-from-home agents with experience, speed, and hustle—ideal for those living farther out but ready to plug in and perform."
+    }
+  ],
+  "Contact": {
+    "address": "Av. Mariano Otero 3429, 44535 Guadalajara, Jal.",
+    "phone": "33-3823-1141, 33-2286-6071",
+    "email": "hello@marketingstormleads.com.com",
+    "facebook": "https://www.facebook.com/Marketingstormleadsagents/",
+    "twitter": "https://www.instagram.com/marketingstormleads/",
+    "youtube": "https://www.youtube.com/@marketingstormleads2523"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-line-chart",
+      "title": "14+ Years Strong",
+      "text": "Dominating the game for over a decade. Built to last, built to lead, and only getting bigger."
+    },
+    {
+      "icon": "fa fa-globe",
+      "title": "Top Calling Areas",
+      "text": "We analyze and adjust weekly, keeping you on campaigns with the best shot at success."
+    },
+    {
+      "icon": "fa fa-money",
+      "title": "On-Time Pay",
+      "text": "We pay weekly, without delays—because your effort deserves fast and fair rewards."
+    },
+    {
+      "icon": "fa fa-briefcase",
+      "title": "Stable career",
+      "text": "Legal benefits, real raises, and daily momentum to grow a serious long-term career."
+    }
+  ]
+}
