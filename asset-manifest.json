@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NEW-WEB-MSL/static/css/main.ae42ac5f.css",
+    "main.js": "/NEW-WEB-MSL/static/js/main.f1629822.js",
+    "index.html": "/NEW-WEB-MSL/index.html",
+    "main.ae42ac5f.css.map": "/NEW-WEB-MSL/static/css/main.ae42ac5f.css.map",
+    "main.f1629822.js.map": "/NEW-WEB-MSL/static/js/main.f1629822.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.f1629822.js"
+  ]
+}
